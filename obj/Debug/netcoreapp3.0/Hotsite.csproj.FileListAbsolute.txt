@@ -1,0 +1,259 @@
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.exe
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.deps.json
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.json
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.dev.json
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas\Downloads\projetohotsite\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfo.cs
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cache
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cs
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Manifest.cache
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.input.cache
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.output.cache
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorCoreGenerate.cache
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cs
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CopyComplete
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\lucas\Downloads\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.exe
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.deps.json
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.json
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.dev.json
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.AssemblyReference.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfoInputs.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfo.cs
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CoreCompileInputs.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cs
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Manifest.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Pack.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.Hotsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.Hotsite.props
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.Hotsite.props
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.Hotsite.props
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.input.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.output.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorCoreGenerate.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cache
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cs
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CopyComplete
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\joaoz\Downloads\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.exe
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.deps.json
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.json
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cs
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.input.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.output.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorCoreGenerate.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cs
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Manifest.cache
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.xml
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\Gustavo\Desktop\projetohotsite (1)\projetohotsite\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Hotsite.exe
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Hotsite.deps.json
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Hotsite.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\MySqlConnector.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gustavo\Desktop\Hotsite\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorAssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.input.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.TagHelpers.output.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorCoreGenerate.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.RazorTargetAssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.Views.pdb
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Manifest.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.dll
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.pdb
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\Hotsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\staticwebassets\Hotsite.StaticWebAssets.Pack.cache
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.Hotsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.Hotsite.props
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.Hotsite.props
+C:\Users\Gustavo\Desktop\Hotsite\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.Hotsite.props

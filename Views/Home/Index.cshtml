@@ -1,0 +1,257 @@
+﻿@model Interesse
+@{
+    ViewData["Title"] = "Iniciativa Saude da Cidade";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vida Saudável</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    <script>
+        function cadastrar1() {
+
+                console.log("Cadastro feito com sucesso!")
+                setTimeout(50000)
+                
+                };
+
+    </script>
+
+
+<style>
+
+    main{
+
+        margin: 45px;
+        padding: 29px;
+        position: absolute;
+    }
+
+
+     body{
+        background-color: rgb(197, 197, 197);
+     }
+
+
+    #div{
+        background-color: #18204a;
+        box-shadow: #4154ba;
+        border-radius: 10px;
+        color : white;
+    }
+    #img{
+        width: 600px;
+        height: 300px;
+         border-radius: 5px;
+    }
+    #btn{
+        display: flex;
+        transform: translateX(-0x)translateY(-0px);
+        align-items: flex-end;
+        
+        
+      
+    }
+    .cards{
+        display: flex;
+        width: 100px;
+        height: 100px;
+        background-color: #18204a;
+        cursor:pointer;
+        border-radius: 5px;
+    }
+    #col2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 100px;
+    }
+    #cars{
+        display: flex;
+        gap:30px;
+    }
+    #imgs{
+        display: flex;
+        width: 100px;
+        height: 100px;
+         border-radius: 5px;
+    }
+
+</style>
+</head>
+<body>
+  <div class="container">
+  <div class="row">
+    <div class="col">
+      <h1 class="text-start"> Iniciativa Saúde da Cidade</h1>
+      <p class="text-start mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Et quam accusamus, quidem ea repellat atque eveniet, ipsa nemo libero facilis harum placeat officiis vero minima aliquam? Amet illum labore corrupti?
+      </p>
+      <p class="text-start mb-3"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum tenetur necessitatibus, deserunt officia illo distinctio. Harum autem repellat unde rerum non. Soluta similique laborum voluptate fugiat, ad enim vero officiis.</p>
+        <div class="row">
+            <div class="col" id="div">
+              <form id="meu-formulario"  method="post" asp-controller="Home" asp-action="Index">
+                <br>
+                 <div class="mb-3">
+                    <label for="Nome" class="form-label">Nome</label>
+                    <input asp-for="Nome" type="text" class="form-control" id="nome" required placeholder="Nome completo">
+            </div>
+            <div class="mb-3">
+                     <label for="Email" class="form-label">Email </label>
+                     <input asp-for="Email" type="email" class="form-control" id="email" required placeholder="name@example.com">
+            </div>
+            <div class="mb-3">
+                     <label for="exampleFormControlTextarea1" class="form-label">Mensagem(opcional):</label>
+                    <textarea asp-for="Mensagem" class="form-control" id="exampleFormControlTextarea1"  rows="3"></textarea>
+            </div>
+            
+            <div class="mb-3 ">
+                <br>
+                
+                <button type="submit" onclick="cadastrar1()" id="btn"  asp-action="Cadastrar" class="btn btn-light lg">Cadastrar</button>
+
+
+
+                
+              </form>
+              @ViewBag.Message
+            </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col" id="col2">
+        <div class="row">
+            <img id="img" src="~/wwwroot/img/DiaMundialdaSaude2021.jpg" class="img-fluid" alt="...">
+        </div>
+       <div class="row" id="cards">
+
+            <div class="col">
+            <span>
+            <!-- Img -->
+            <div class="cards"><img class="img-fluid" id="imgs" src="...\wwwroot\img\agenda.png" alt="Agenda de Eventos" data-bs-toggle="modal" data-bs-target="#exampleModal">
+            </div>
+            <p>Agenda de Eventos</p>
+            
+            
+
+            <!-- Modal 1 -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5 text-center" id="exampleModalLabel">Agenda</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <table class="table">
+                    <thead>
+                        <tr>
+                        <th scope="col-3">Data</th>
+                        <th scope="col-3">Nome</th>
+                        <th scope="col-3">Descrição</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                        <th scope="row">13/03/2023</th>
+                        <td>Lorem ipsum</td>
+                        <td>Lorem ipsum dolor sit amet. Sed reprehenderit voluptatum est corporis provident aut nesciunt quam aut dolores consequuntur et rerum expedita et explicabo nisi quo iusto nesciunt. Id asperiores molestiae eos itaque consequuntur et iste culpa aut enim debitis.</td>
+                        </tr>
+                        <tr>
+                        <th scope="row">24/02/2023</th>
+                        <td>Lorem ipsum</td>
+                        <td>Lorem ipsum dolor sit amet. Sed reprehenderit voluptatum est corporis provident aut nesciunt quam aut dolores consequuntur et rerum expedita et explicabo nisi quo iusto nesciunt. Id asperiores molestiae eos itaque consequuntur et iste culpa aut enim debitis.</td>
+                        </tr>
+                        <tr>
+                        <th scope="row">20/02/2023</th>
+                        <td>Lorem ipsum</td>
+                        <td>Lorem ipsum dolor sit amet. Sed reprehenderit voluptatum est corporis provident aut nesciunt quam aut dolores consequuntur et rerum expedita et explicabo nisi quo iusto nesciunt. Id asperiores molestiae eos itaque consequuntur et iste culpa aut enim debitis.</td>
+                        </tr>
+                    </tbody>
+                    </table>
+                </div>
+                </div>
+            </div>
+            </div>
+
+            </span>
+            </div>
+             <div class="col">
+              <span>
+                <div class="cards"><img class="img-fluid" id="imgs" src="~/wwwroot/img/pontas.png" alt="Dicas de vida saudável" data-bs-toggle="modal" data-bs-target="#exampleModalToggleLabel2">
+                </div>
+                <p>Dicas de vida saudável</p>
+                
+                <!-- Modal 2 -->
+                <div class="modal fade" id="exampleModalToggleLabel2" tabindex="-1" aria-labelledby="exampleModalToggleLabel2" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="fs-5" id="exampleModalToggleLabel2">Dicas de vida saudável</h1>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <h1 class="tittle text-center">Lorem ipsum</h1>
+                        <p class="text-center">Lorem ipsum dolor sit amet. Sed reprehenderit voluptatum est corporis provident aut nesciunt quam aut dolores consequuntur et rerum expedita et explicabo nisi quo iusto nesciunt. Id asperiores molestiae eos itaque consequuntur et iste culpa aut enim debitis.
+<br><br>
+                            Lorem ipsum dolor sit amet. Sed reprehenderit voluptatum est corporis provident aut nesciunt quam aut dolores consequuntur et rerum expedita et explicabo nisi quo iusto nesciunt. Id asperiores molestiae eos itaque consequuntur et iste culpa aut enim debitis.
+<br><br>
+                            Lorem ipsum dolor sit amet. Sed reprehenderit voluptatum est corporis provident aut nesciunt quam aut dolores consequuntur et rerum expedita et explicabo nisi quo iusto nesciunt. Id asperiores molestiae eos itaque consequuntur et iste culpa aut enim debitis.
+                        </p>
+                    </div>
+                    </div>
+                </div>
+                </div>
+
+            </span>
+            </div>
+             <div class="col">
+               <span>
+                    <!-- Img -->
+                    <div class="cards"><img class="img-fluid" id="imgs" src="~/wwwroot/img/apoiador.png" alt="Apoiadores" data-bs-toggle="modal" data-bs-target="#exampleModalToggleLabel3">
+                    </div>
+                    <p>Apoiadores</p>
+                     <!-- Modal 3 -->
+                <div class="modal fade" id="exampleModalToggleLabel3" tabindex="-1" aria-labelledby="exampleModalToggleLabel3" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="modal-title fs-5 text-center" id="exampleModalToggleLabel3">Apoiadores</h1>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row"><img class="img-fluid cards" id="imgs" src="~/wwwroot/img/nubank.png" >
+                        <h2 class="col">Nubank</h2>
+                        <p class="col">Descrição</p>
+                        </div>
+                        <br>
+                        <div class="row"><img class="img-fluid cards" id="imgs" src="~/wwwroot/img/bancodobrasil.png" >
+                        <h2 class="col">Banco do Brasil</h2>
+                        <p class="col">Descrição</p>
+                        </div>
+                        <br>
+                        <div class="row"><img class="img-fluid cards" id="imgs" src="~/wwwroot/img/santander.png" >
+                        <h2 class="col">Santander</h2>
+                        <p class="col">Descrição</p>
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+
+
+            </span>
+        </div>
+    </div>
+ 
+  </div>
+</div>
+</div>
+</body>
+</html>
